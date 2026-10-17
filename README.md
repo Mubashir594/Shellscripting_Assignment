@@ -202,7 +202,7 @@ This project provides practical experience with:
 
 **Project:** AWS EC2 System Monitoring Using Bash
 
-**GitHub:** [https://github.com/Mubashir594](https://github.com/Mubashir594/Shellscripting_Assignment.git)
+**GitHub:** [https://github.com/Mubashir594/Shellscripting_Assignment.git](https://github.com/Mubashir594/Shellscripting_Assignment.git)
 
 ---
 
